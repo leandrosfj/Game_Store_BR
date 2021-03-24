@@ -1,6 +1,10 @@
 # Game_Store_BR
-Implementation of a registration system with seller, buyer, products,  payment methods and transactions
 
-//TODO: Formatar impressões de acordo com padrões tabelados
-//TODO: Tratar exceções de tipo de variável inseridas nas opções dos menus
-//TODO: Validar formatos de CPF, CNPJ
+> Implementation of a registration system with seller, buyer, products,  payment methods and transactions
+
+//TODO: Formatar impressões de acordo com padrões tabelados.
+
+//TODO: Tratar exceções de tipo de variável inseridas nas opções dos menus.
+
+//TODO: Validar formatos de CPF, CNPJ.
+
